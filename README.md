@@ -2,7 +2,7 @@
 ### Eu sou Mikael Angelo, Analista e desenvoledor de sistema.
 <hr>
 <div>
-  <a href="mikaelangelo.tech">
+  <a href="http://www.mikaelangelo.tech">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mikaelangelo12&show_icons=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelangelo12&layout=compact)](https://github.com/mikaelangelo12/github-readme-stats"/>
 
