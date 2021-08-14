@@ -21,6 +21,9 @@ back
 <hr>
 
 ![Alt ou título da imagem](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+    
+ ![Snake animation](https://github.com/mikaelangelo12/mikaelangelo12/blob/output/github-contribution-grid-snake.svg)
+   
 <!--
 **mikaelangelo12/mikaelangelo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
