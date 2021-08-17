@@ -6,7 +6,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mikaelangelo12&show_icons=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelangelo12&layout=compact)](https://github.com/mikaelangelo12/github-readme-stats"/>
 
-#Front-End
+# Front-End
 <hr>
 
 ![Alt ou título da imagem](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,12 +17,12 @@
 ![Alt ou título da imagem](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Alt ou título da imagem](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-#Back-End
+# Back-End
 <hr>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
 
-#Banco de dados
+# Banco de dados
 <hr>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
