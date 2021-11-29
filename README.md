@@ -1,4 +1,3 @@
-Analista e desenvoledor de sistema.
 ## Senior em Web Development FrontEnd
 ### Estudando BackEnd em Web Development
 <hr>
