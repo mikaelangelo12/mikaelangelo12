@@ -1,5 +1,4 @@
 # Bem Vindo ao Meu GitHub. 
-### Eu sou Mikael Angelo,
 Analista e desenvoledor de sistema.
 ## Senior em Web Development FrontEnd
 ### Estudando BackEnd em Web Development
