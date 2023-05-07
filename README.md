@@ -1,5 +1,7 @@
 ## Development FrontEnd
-### Estudando BackEnd em Web Development
+Como desenvolvedor front-end com 6 anos de experiência, tenho um forte conhecimento em HTML, CSS, JavaScript e, em particular, no framework Angular. Já trabalhei em projetos de grande escala usando Angular, implementando recursos avançados como roteamento, autenticação e autorização, manipulação de formulários, integração com APIs RESTful, entre outros.
+
+Além disso, tenho experiência em desenvolvimento de interfaces de usuário atraentes e intuitivas, usando técnicas de design responsivo e acessibilidade para garantir que minhas aplicações sejam acessíveis a todos os usuários. Também sou apaixonado por aprender novas tecnologias e tendências de desenvolvimento front-end, e estou sempre buscando maneiras de melhorar minhas habilidades e aprimorar minhas habilidades técnicas.
 <hr>
 <div>
   <a href="http://www.mikaelangelo.tech">
